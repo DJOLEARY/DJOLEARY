@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![PHP](https://img.shields.io/badge/-8892bf?style=social&logo=php&link=%23)
+
 <!--
 **DJOLEARY/DJOLEARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
