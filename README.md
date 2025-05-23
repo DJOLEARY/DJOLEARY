@@ -32,5 +32,3 @@
 ![trello](https://img.shields.io/badge/-trello-%230052CC?style=flat-square&logo=trello&logoColor=white)
 ![obsidian](https://img.shields.io/badge/-obsidian-%237C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![github](https://img.shields.io/badge/-github-%23181717?style=flat-square&logo=github&logoColor=white)
-
-## :arrow_down_small: Check Out My Pinned Repos :arrow_down_small:
