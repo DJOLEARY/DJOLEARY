@@ -1,4 +1,8 @@
-## Toolchains
+## :raising_hand: About Me
+
+Backend engineer at [cardmarket.com](https://www.cardmarket.com)
+
+## :wrench: Toolchains
 
 ### Professional
 
