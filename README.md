@@ -1,6 +1,6 @@
 ## Toolchains
 
-### Professional Toolchain
+### Professional
 
 ![neovim](https://img.shields.io/badge/-neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white)
 ![nixos](https://img.shields.io/badge/-nixos-%235277C3?style=flat-square&logo=nixos&logoColor=white)
@@ -17,7 +17,7 @@
 ![confluence](https://img.shields.io/badge/-confluence-%23172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![gitlab](https://img.shields.io/badge/-gitlab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-### Personal Toolchain
+### Personal
 
 ![neovim](https://img.shields.io/badge/-neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white)
 ![nixos](https://img.shields.io/badge/-nixos-%235277C3?style=flat-square&logo=nixos&logoColor=white)
